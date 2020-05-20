@@ -1,7 +1,7 @@
 # coursera-getting-and-cleaning-data-project
 course project for Coursera "Getting and Cleaning Data"
 
-This repository is the submission for Nathan C. Walk, MD.  
+  
 
 The purpose of the project is to demonstrate one's ability to collect, work with, and clean a 
 data set.  Data is prepared in the form of "tidy data" for analysis later.  Tidy data is defined
